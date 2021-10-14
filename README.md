@@ -1,2 +1,2 @@
-# odevzdane-ukoly-engeto
+# Hotel
 Vypracovany ukol.
